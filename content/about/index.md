@@ -12,8 +12,8 @@ showInMenu: true
 # datetime.today().strftime('%Y-%m-%dT%H:%M:%S')
 ---
 
-Hi, I am Carmine Vassallo. I am a senior devops engineer at [Avaloq](https://www.avaloq.com/en/home) part of NEC corporation. We build our own software banking suite which is used by Barclais, HSBC and other major banks worldwide. My role is taking ownership of build tools and architecting the next automation tasks fostering the devops mindset.
+Hi, I am Carmine Vassallo. I am a senior DevOps engineer at [Avaloq](https://www.avaloq.com/en/home), part of NEC Corporation, in Zurich. We build our own software banking suite which is used by Barclays, HSBC, and other major banks worldwide. In my role, I take ownership of build tools and architect the next automation tasks, fostering a DevOps mindset.
 
 I hold a PhD in computer science from the University of Zurich. 
 
-This website is still under construction. Please visit my [institutional website](https://www.ifi.uzh.ch/en/seal/people/vassallo.html).
+> **WARNING: This website is under construction.** Please visit my [institutional website](https://www.ifi.uzh.ch/en/seal/people/vassallo.html).
