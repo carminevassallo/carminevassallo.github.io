@@ -18,11 +18,11 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-          # extended: true
+          extended: true
 
       - name: Build
-        # run: hugo --minify
-        run: hugo server -D
+        run: hugo --minify
+        # run: hugo server -D
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
