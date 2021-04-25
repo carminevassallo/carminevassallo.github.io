@@ -51,8 +51,8 @@ params:
   cssIntegrity: true
   # parameter used to specify if you want to calculate the js integrity
   jsIntegrity: true
-  # option to specify the main colour of the theme
-  mainColour: "#F39200"
+  # option to specify the main colour of the theme (reference: https://www.computerhope.com/htmcolor.htm)
+  mainColour:  "#368BC1" #"#F39200"
 
   # summary options
   summary:
