@@ -41,7 +41,7 @@ params:
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/favicon.svg"
+  favicon: "/images/AvatarMaker.svg"
 
   # parameter used to specify if you want to minify the imported js
   jsMinify: false
@@ -110,7 +110,7 @@ params:
     # option to specify the subtitle in the homepage
     subtitle: Senior DevOps Engineer @ Avaloq | NEC
     # option to specify image in the homepage
-    image: "/images/AvatarMaker.png" # worker.svg 
+    image: "/images/AvatarMaker.svg" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -127,6 +127,9 @@ params:
     linkedin: 
       link: in/carmine-vassallo
       title: carmine-vassallo
+    slideshare:
+      link: carminevassallo
+      title: carminevassallo
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
     # facebook: 
