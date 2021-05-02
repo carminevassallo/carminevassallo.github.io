@@ -21,8 +21,13 @@ Currently, I am a senior DevOps engineer at [Avaloq](https://www.avaloq.com/en/h
 
 I hold a PhD in computer science from the [University of Zurich](https://www.uzh.ch/cmsssl/en.html). I co-authored 14 [articles on CI/CD topics](https://scholar.google.ch/citations?user=RwDNiTAAAAAJ&hl=en) published at top-tier peer-reviewed conferences and journals in the field of software engineering.
 
+![hello](./3D.jpg)*Read my doctoral dissertation [here](http://carminevassallo.com/publications/VassalloPhDThesis.pdf)*
+
+
 <!--
-[<img src="summary_2.jpg" width="250"/>](summary_2.jpg)
+{{% figure src="3D.jpg" width="400" %}}
+{{< figure src="images/system.jpg" width="700" >}}
+[<img src="3D.jpg" width="250"/>](3d.jpg)
 ![hello](./summary_2.jpg){:height="12px" width="12px"}
 {{< figure src="/images/favicon.svg" width="700" >}}
 {{< figure src="/images/favicon.svg" height="700" >}}
